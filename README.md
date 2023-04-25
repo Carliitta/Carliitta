@@ -19,7 +19,9 @@
    <img src="https://user-images.githubusercontent.com/93160279/234152512-1ae472d7-67f6-4f82-94f4-638a927ffa5f.png" alt="node" title="node.js" style="vertical-align:top; margin:4px;width:40px">
      <img src="https://user-images.githubusercontent.com/93160279/234152402-9587dbae-9775-4310-bb9f-c83034667db2.png" alt="postgres" title="postgres" style="vertical-align:top; margin:4px;width:40px">
     <img src="https://user-images.githubusercontent.com/93160279/234152741-0720084a-c75c-43d0-8343-baaecde6e035.png" alt="git" title="git" style="vertical-align:top; margin:4px;width:40px">
-
+   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png" alt="express" title="express.js" style="vertical-align:top; margin:4px;width:40px">
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" title="postman" style="vertical-align:top; margin:4px;width:40px">
+ 
 </p>
 
 ⭐️ From [Carliitta](https://github.com/Carliitta/Carliitta)          
