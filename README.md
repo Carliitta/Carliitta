@@ -1,9 +1,7 @@
 #
  <h1>Hola!👋soy Carlii</h1>
 <h3>🚀Desarrolladora web full stack</h3>
-<h3>💻de Misiones, Argentina🌎</h3>
 
-<h3>Apasionada por la tecnologia y los Michis🐈.<br>Siempre estoy buscando oportunidades para crecer profesionalmente y mejorar mis habilidades de programación.</h3>
                                                     
 <img align='center' src='https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif' width='100"'/>
 
